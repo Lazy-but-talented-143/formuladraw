@@ -82,7 +82,7 @@ formuladraw-dist/
 
 ## 🚀 Live Demo
 
-**Try FormulaDraw:** [Open the live application](https://formuladraw.netlify.app/)
+**Try FormulaDraw:** (https://formuladraw.netlify.app/)
 
 FormulaDraw converts uploaded images into geometric paths and mathematical representations directly in the browser.
 
