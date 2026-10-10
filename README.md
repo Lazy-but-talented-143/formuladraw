@@ -77,3 +77,27 @@ formuladraw-dist/
 ├── package-lock.json
 ├── tsconfig*.json
 └── vite.config.ts
+
+
+
+## 🚀 Live Demo
+
+**Try FormulaDraw:** [Open the live application](https://formuladraw.netlify.app/)
+
+FormulaDraw converts uploaded images into geometric paths and mathematical representations directly in the browser.
+
+## 🛠️ Built With
+
+- React
+- TypeScript
+- Vite
+- SVG and HTML Canvas
+- KaTeX
+
+## ✨ Key Features
+
+- Image contour extraction
+- Geometric shape classification
+- Mathematical model fitting
+- Step-by-step reconstruction
+- SVG export
